@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|d:\\the fourth year\\information_security\\classical_ciphering\\classical_ciphering\\claesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\claesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\affine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\hill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\vigenere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\vernam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\vernam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\adfgvx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\adfgvx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\affinehill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\affinehill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6193978-7C30-4ED6-88FA-E07ED8AF597D}|classical_ciphering\\classical_ciphering.csproj|solutionrelative:classical_ciphering\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Form1.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Form1.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Form1.cs",
+              "RelativeToolTip": "classical_ciphering\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwOsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:48:15.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Claesar.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Claesar.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Claesar.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Claesar.cs",
+              "RelativeToolTip": "classical_ciphering\\Claesar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:08:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Affine.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Affine.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Affine.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Affine.cs",
+              "RelativeToolTip": "classical_ciphering\\Affine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:07:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AffineHill.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\AffineHill.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\AffineHill.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\AffineHill.cs",
+              "RelativeToolTip": "classical_ciphering\\AffineHill.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:48:11.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ADFGVX.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\ADFGVX.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\ADFGVX.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\ADFGVX.cs",
+              "RelativeToolTip": "classical_ciphering\\ADFGVX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:25:01.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Playfair.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Playfair.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Playfair.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Playfair.cs",
+              "RelativeToolTip": "classical_ciphering\\Playfair.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAmwJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:22:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vernam.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Vernam.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Vernam.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Vernam.cs",
+              "RelativeToolTip": "classical_ciphering\\Vernam.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:20:06.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vigenere.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Vigenere.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Vigenere.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Vigenere.cs",
+              "RelativeToolTip": "classical_ciphering\\Vigenere.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwEkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:20:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hill.cs",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Hill.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Hill.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Hill.cs",
+              "RelativeToolTip": "classical_ciphering\\Hill.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:16:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Form1.cs",
+              "RelativeDocumentMoniker": "classical_ciphering\\Form1.cs",
+              "ToolTip": "D:\\The Fourth Year\\Information_security\\classical_ciphering\\classical_ciphering\\Form1.cs [Design]",
+              "RelativeToolTip": "classical_ciphering\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:42:21.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
